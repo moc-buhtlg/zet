@@ -1,0 +1,3 @@
+REGS -> borders_by_cords регс для квадратичкской карты а не пустой
+REGS_info
+ports
